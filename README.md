@@ -26,7 +26,10 @@ One which gives the highest F1-Score is selected as the best model.
 ----
 
 ## References for the Project
-The following GitHub repositories were used as references for our project: 
-* https://github.com/parthpatwa/covid19-fake-news-detection
-* https://github.com/krishnaik06/Fake-New-LSTM
-* https://github.com/codebasics/deep-learning-keras-tf-tutorial/tree/master/47_BERT_text_classification
+
+[1]  Darcy Warkentin, Michael Woodworth, Jeffrey T. Hancock, and Nicole Cormier. 2010. [Warrants and deception in computer-mediated communication](https://doi.org/10.1145/1718918.1718922). In Proceedings of the 2010 ACM Conference on Computer Supported Cooperative Work, CSCW ’10, page 9–12, New York, NY, USA. Association for Computing Machinery.
+
+[2]  Arkaitz Zubiaga, Maria Liakata, Rob Procter, Geral- dine Wong Sak Hoi, and Peter Tolmie. 2016. [Analysing how people orient to and spread rumours in social media by looking at conversational threads](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150989). PLOS ONE, 11(3):e0150989.
+
+[3]  J.Cement. 2020. [Number of social media users 2025](https://www.statista.com/statistics/278414/number-of-worldwide-social-network-users/). Statista. Accessed: 2020-10-30.
+
